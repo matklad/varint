@@ -1,0 +1,8 @@
+[package]
+name = "varint"
+version = "0.1.0"
+authors = ["Aleksey Kladov <aleksey.kladov@gmail.com>"]
+edition = "2018"
+
+[dev-dependencies]
+quickcheck = "0.9.2"
